@@ -1,0 +1,152 @@
+*{
+
+	margin: 0;
+	background-color: white;
+	padding: 5px;
+}
+	.body{
+      height: 900px;
+     
+      border-style: solid;
+      margin: 20px;
+	}.cover{
+	   
+	   text-align: center;
+	   border-width: 5px;
+	   border-color: deeppink;
+	   border-bottom: 0;
+		background-color: white;
+		float: left;
+		height: 250px;
+         width: 90%;
+         margin-top: 30px;
+         margin-left: 50px;
+         border-style: solid;
+
+	}.Menus{
+		
+		background-color:green;
+		
+		float: left;
+		height: 50px;
+         width: 90.7%;
+         margin: 0px;
+         margin-left: 50px;
+	}.footer{
+		 text-align: center;
+	   border-width: 5px;
+		background-color: white;
+		float: left;
+		height: 500px;
+         width: 90%;
+         
+         margin-left: 50px;
+         border-style: solid;
+	}.content{
+		border-width: 5px;
+		border-color: orange;
+		border-style: solid;
+		background-color: white;
+		float: left;
+		height: 380px;
+         width:50%;
+         margin: 30px;
+         margin-bottom: 0;
+	}.list{
+		border-width: 5px;
+		border-color: orange;
+			border-style: solid;
+		background-color: white;
+		float: right;
+		height: 380px;
+         width:30%;
+         margin-right: 70px;
+        margin-top: 30px;
+
+          
+	}.dialog{
+		
+		
+	margin-left: 40px;
+	float: left;
+	}ul li{
+border-style: solid;
+    background-color: yellow;
+	
+	
+	display: inline;
+	padding: 20px;
+	margin-right: 40px;
+	float: left;
+
+	
+		
+
+
+	}.Home{
+		border-color: green;
+		border-style: solid;
+		display: inline;
+		background-color: yellow;
+		height: 40px;
+		width: 240px;
+		text-align: center;
+		float: left;
+		margin: 0;
+		padding: 5px;
+	}
+	.Menu1{display: inline;
+
+		background-color: yellow;
+		border-style: solid;
+		height: 40px;
+		width: 240px;
+		text-align: center;
+		float: left;
+		border-color: green;margin: 0;}
+	.Menu2{display: inline;
+		border-style: solid;
+		background-color: yellow;
+		height: 40px;
+		width: 240px;
+		text-align: center;margin: 0;
+		float: left;
+	border-color: green}
+	.Menu3{display: inline;
+		border-style: solid;margin: 0;
+		background-color: yellow;
+		height: 40px;
+		width: 230px;
+		text-align: center;
+		float: left;
+	border-color: green}
+	.Menu4{display: inline;border-style: solid;
+		background-color: yellow;margin: 0;
+		height: 40px;
+		width: 200px;
+		text-align: center;
+		float: left;
+	border-color: green}
+
+ul{
+	border-color: red;
+	background-color: white;
+	border-style: solid;
+	height: 280px;
+	width: 320px;
+	margin-top: 20px;
+	margin-left: 8px;
+	
+	float: left;}
+
+
+ul li{
+	display: inline-block;
+	height: 25px;
+	width: 270px;
+	background-color: skyblue;
+	border-style: solid;
+	border-color: green;
+	margin-left: 0;
+	text-align: center;
+}
